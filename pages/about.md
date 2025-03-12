@@ -1,10 +1,9 @@
-
 ---
 layout: mypost
 title: 关于我
 ---
 
-> Hello 陌生人，欢迎访问 南遇 博客
+> Hello 陌生人，欢迎访问 JK Blog
 
 
 
